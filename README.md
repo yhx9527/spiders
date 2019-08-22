@@ -3,7 +3,7 @@
 
 ### 极客时间 账号订阅专栏文章爬虫
 [具体代码](crawlers/geek_crawler.py)
-- 安装  
+
 
  - 安装redis并启动  
  - 安装chrome-driver  
@@ -14,6 +14,7 @@
 - 运行  
 `python3 run.py`  
 可使用微信扫码登陆和账号密码登陆  
+最终文章会被以html格式被下载到指定文件夹下
 
 
 
